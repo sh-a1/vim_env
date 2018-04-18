@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/share/vim/vim74/colors'
+let g:netrw_dirhist_2='/Users/skailasam/Documents/projects/Linux/build/create_dkms/dkms_conf'
+let g:netrw_dirhist_3='/Users/skailasam'
+let g:netrw_dirhist_4='/Users/skailasam/.ssh'
+let g:netrw_dirhist_5='/Users/skailasam'
+let g:netrw_dirhist_6='/Users/skailasam/projects/virtualisation/vm_xmls'
+let g:netrw_dirhist_7='/Users/skailasam/projects/platoon/284204/scsi_emulation'
+let g:netrw_dirhist_8='/Users/skailasam/.vim/bundle/nerdtree/doc'
